@@ -4,7 +4,7 @@ import {
     copilotRuntimeNextJSAppRouterEndpoint,
     langGraphPlatformEndpoint
     // ...
-} from "@copilotkit/runtime";
+} from "@copilotkit";
 import { NextRequest } from "next/server";
 
 // You can use any service adapter here for multi-agent support.
